@@ -1,2 +1,4 @@
 this is file1 random content. 
   "this changes will only commited in new branch"
+ 
+   this change commited from new branch
