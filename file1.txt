@@ -1,6 +1,2 @@
 this is file1 random content. 
-  "this changes will only commited in new branch"
-    
-    testing not fast forward merge
-
-  1> this change will be commited from main branch
+  
